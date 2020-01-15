@@ -1,0 +1,11 @@
+@import "~bootstrap/scss/bootstrap.scss";
+
+* {
+  padding: 0;
+}
+
+form {
+  width: 400px;
+  margin:auto;
+  transform: translate(0, 50%);
+}
